@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-psycopg2
-python-dotenv
-pydantic
-jinja2
-watchfiles
